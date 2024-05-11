@@ -11,6 +11,12 @@
 - Type of change proposed (check one):
 2. Propose a new macrolanguage or modify a macrolanguage group
 
-- For proposing a change to an existing code element, please identify:
--- Affected ISO 639-3 identifier: zho
--- Associated reference name: Chinese
+For proposing a change to an existing code element, please identify:
+- Affected ISO 639-3 identifier: zho
+- Associated reference name: Chinese
+
+# 2. Propose a new macrolanguage or modify a macrolanguage group
+
+(a) For an existing Macrolanguage, what change to its individual language membership do you propose:
+
+(b) Rationale for change:
